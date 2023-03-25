@@ -1,4 +1,6 @@
-##**Bytewise Fellowship Deep Learning** 
+***Bytewise Fellowship Deep Learning***
+
+
 This repository contains code for the deep learning tasks assigned during the Butewise Fellowship program. The code is organized into folders corresponding to each task.
 
 
