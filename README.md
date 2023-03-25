@@ -1,8 +1,9 @@
-***Bytewise Fellowship Deep Learning*** 
+##**Bytewise Fellowship Deep Learning** 
 This repository contains code for the deep learning tasks assigned during the Butewise Fellowship program. The code is organized into folders corresponding to each task.
 
 
 **Tasks**
+
 
 The following tasks are included in this repository:
 
@@ -29,6 +30,7 @@ Task 9: File Reading & Writing, Try, Except & Finally
 
 
 **Usage**
+
 Each task is contained in a separate folder, and includes a Jupyter Notebook file with instructions and code for completing the task. To use this repository, simply clone it to your local machine:
 
 
