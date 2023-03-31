@@ -30,6 +30,17 @@ Task 8: Classes in Python, Inheritance in Classes
 
 Task 9: File Reading & Writing, Try, Except & Finally
 
+Task 10: Introduction to Numpy, Numpy Arrays
+Task 11: Linear Alegbra with Numpy, Statistical Functions with Numpy
+
+Task 12: Broadcasting in Numpy Array 
+
+Task 13: Starting with Pandas, Series and DataFrame
+
+Task 14: Loading Data with Pandas, read_csv(), read_json(), read_excel(), read_sql()
+
+
+
 
 **Usage**
 
